@@ -1,0 +1,5 @@
+name: lte_switch
+dependencies:
+  flutter:
+    sdk: flutter
+  connectivity_plus: ^6.0.3
